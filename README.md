@@ -1,0 +1,2 @@
+# MyProjectWE
+This is public
